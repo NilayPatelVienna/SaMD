@@ -38,4 +38,10 @@ In general, software is SaMD if it provides the means to help mitigate a disease
 Furthermore, IMDRF provides an important mechanism (see table below) for categorizing a SaMD on the basis of its intended use and the state of the healthcare situation or condition.
 
 
+| State of healthcare situation or condition | Significance of information provided by SaMD to a healthcare decision |
+|                                            | Treat or diagnose | Drive Clinical management | Inform clinical management |
+|Critical                                    | IV                | III                       | II                         |
+
+
+
 
