@@ -1,5 +1,6 @@
 # SaMD
 Evolving Regulatory Framework for Software as a Medical Device based on Machine Learning
+
 **1 SaMD Overview**
 
 Software is one of the most important components of the healthcare industry. Before we dig into more details, we must distinguish mainly between the two types of software: 
