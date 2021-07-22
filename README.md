@@ -15,3 +15,5 @@ Software is one of the most important components of the healthcare industry. Bef
 - Medical image communication devices 
 - Any administrative service (e.g. hospital billing services) 
 - Software used to make or maintain a device (e.g. testing, source code management, servicing, etc.)
+
+
